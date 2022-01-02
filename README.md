@@ -7,6 +7,6 @@ How to use it?
 
 Note📝: While replacing the Local State file, make sure Microsoft Edge is closed.
 
-Want to know about the changes?
+**Want to know about the changes?**
 
 Please refer to the [wiki](https://github.com/SecureEdge/Local_State/wiki)
