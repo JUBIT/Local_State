@@ -1,2 +1,2 @@
-# Local_State
-A hardened list of flags for Microsoft Edge focused on privacy &amp; security
+# Local State
+It's a hardened list of flags for Microsoft Edge focused on privacy &amp; security
