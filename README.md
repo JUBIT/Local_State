@@ -5,6 +5,8 @@ How to use it?
 
 **Windows**: Open File Explorer, navigate to "%localappdata%\Microsoft\Edge\User Data\", and replace "Local State" with SecureEdge's provided "Local State" and the flags will be enabled to let you enjoy the most secure Microsoft Edge!
 
+**Arch Linux**: Please see in "$XDG_CONFIG_HOME/microsoft-edge-beta-flags.conf" and configure manuallly.
+
 Note📝: While replacing the Local State file, make sure Microsoft Edge is closed.
 
 **Want to know about the changes?**
